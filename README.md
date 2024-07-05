@@ -1,3 +1,3 @@
-# full-stack-development
+# Amazon Clone Project
 Amazon clone project
 
